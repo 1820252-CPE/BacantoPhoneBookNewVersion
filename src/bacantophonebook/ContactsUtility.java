@@ -26,7 +26,7 @@ import javax.swing.JOptionPane;
 public class ContactsUtility {
    private static List<Contact> AllContacts;
     private static String MessageStatus;
-    public static final String ContactFileName = "Contacts.txt";
+    public static final String ContactFileName = "Registry.txt";
 
     /**
      * @return the MessageStatus
